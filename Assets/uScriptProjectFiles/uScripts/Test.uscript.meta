@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: 9c48e6e2ec3ac004a8cca99fd2ecfff4
-folderAsset: yes
-timeCreated: 1513680594
+guid: a4ddc1e44eec6454f9779e7d19c4bf0c
+labels:
+- uScript
+- uScriptSource
+timeCreated: 1513683273
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
